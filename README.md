@@ -31,6 +31,7 @@ and learn the controls.
 The objective is to reach the gate, which appears as a purple,
 rectangular portal.
 
+#### Controls
 Move the cat around with the arrow keys:
   * `LEFT` Move left
   * `RIGHT`: Move Right
@@ -43,16 +44,19 @@ Press `q` to return to the home screen at any time.
 
 Press `r` to restart a given level.
 
-*Note*: crouching while in the air allows the cat to lift its feet a bit higher, and reach platforms otherwise unreachable, if well timed.
+Close the game/window with the `esc` key.
 
+*Note: crouching while in the air allows the cat to lift its feet a bit higher, and reach platforms otherwise unreachable, if well timed.*
+
+#### Platforms
 There are three types of platforms: `hardbottom`, `softbottom`, and `spike`.
 
 The cat can jump through `softbottom` platforms from below, but not `hardbottom`.
 
 `spikes` cause you to lose a life for every frame you are touching them.
 
+#### Cannons
 `cannons` will shoot at the cat from any distance when he enters their line of sight; from one projectile hit, you will lose one life; *remaining lives are displayed in the top left*.
 
-Close the game/window with the escape key.
 
 **Good luck out there!**
