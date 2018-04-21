@@ -22,7 +22,7 @@ cabal run
 ## Background
 Uses Haskell gloss package for animation and 2D rendering.
 
-Written in Fall 2016 with [imcinerney](https://github.com/imcinerney) as our Functional Programming course final project, though I put more work into cleaning it up and adding features after the course for a v1.1 release.
+Written in Fall 2016 with [imcinerney](https://github.com/imcinerney) as our Functional Programming course final project, though I put more work into cleaning it up and adding features after the course for a v1.1 release in early January, 2017.
 
 ## Instructions
 SPACECAT gameplay requires both precisely timed keypresses and more restful thinking to master MAP II. Use MAP I to practice
