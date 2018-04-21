@@ -6,6 +6,14 @@ SPACECAT is a precision platform game written in Haskell, which involves navigat
 
 ## Setup
 
+Setup and run with the `cabal` tool.
+
+`cabal build` to build the exectutable
+
+followed by
+
+`cabal run` to play **SPACECAT**
+
 ## Background
 Uses Haskell gloss package for animation and 2D rendering.
 
@@ -20,10 +28,10 @@ The objective is to reach the gate, which appears as a purple,
 rectangular portal.
 
 Move the cat around with the arrow keys:
-    `LEFT` Move left
-    `RIGHT`: Move Right
-    `UP`: Jump
-    `DOWN`: Crouch
+    * `LEFT` Move left
+    * `RIGHT`: Move Right
+    * `UP`: Jump
+    * `DOWN`: Crouch
 
 `SPACEBAR`: Paw swipe. Can use this to attack cannons when close.
 
@@ -39,14 +47,11 @@ The cat can jump through `softbottom` platforms from below, but not `hardbottom`
 
 `spikes` cause you to lose a life for every frame you are touching them.
 
-`cannons` will shoot at the cat from any distance when he enters their line of sight; from one projectile hit, you will lose one life.
+`cannons` will shoot at the cat from any distance when he enters their line of sight; from one projectile hit, you will lose one life; *remaining lives are displayed in the top left*.
 
-Remaining lives are displayed in the top left.
-
-Begin playing by executing "cabal run" from the spacecat directory.
 Close the game/window with the escape key.
 
-Good luck out there!
+**Good luck out there!**
 
 
 
