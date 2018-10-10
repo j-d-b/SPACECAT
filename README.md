@@ -5,8 +5,7 @@
 SPACECAT is a precision platform game written in Haskell, which involves navigating our hero, the spacecat, to the exit portal.
 
 ## Setup
-Setup and run with the `cabal` tool.
-
+Setup and build with the `cabal` tool.
 ```
 cabal sandbox init
 cabal install
